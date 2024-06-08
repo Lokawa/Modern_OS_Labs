@@ -20,4 +20,5 @@ This project contains the following files:
 2. Type `make` to compile and build the project.
 3. Execute the generated executable.
  
- 
+ ## Test
+ Due to graphical bed problem, the test run screenshots in test.md are unable to show.
